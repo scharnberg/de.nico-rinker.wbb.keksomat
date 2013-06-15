@@ -1,4 +1,5 @@
-de.nico-rinker.keksomat
+Keksomat
 =======================
 
-A Modifikation of the "Thankbot". (WBB3.1.x)
+Der Keksomat basiert auf dem "Thankbot".
+Hier kann man statt "Danksagungen", Kekse geben.
