@@ -1,5 +1,4 @@
-Keksomat
+Keksomat für das WBB 4.0
 =======================
 
-Der Keksomat basiert auf dem "Thankbot".
-Hier kann man statt "Danksagungen", Kekse geben.
+Ermöglicht Nutzer das Kekse verschenken.
